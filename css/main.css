@@ -1,5 +1,5 @@
 :root{
-    --bodycolor:#FC7753;
+    --bodycolor:black;
     --pcolor: #2ca58d;
 }
 
@@ -7,6 +7,7 @@ body{
     
     font-family: 'Charm', cursive;  
     color: var(--bodycolor); 
+    font-size: 3em
 }
 
 .hello{
